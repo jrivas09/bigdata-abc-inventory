@@ -1,0 +1,21 @@
+{
+  "version": "0.1",
+  "connections": [
+    {
+      "details": {
+        "protocol": "databricks-multicloud",
+        "address": {
+          "host": "dbc-88e5a290-b737.cloud.databricks.com",
+          "path": "/sql/1.0/warehouses/0ede5e4bfbee5961"
+        },
+        "authentication": null,
+        "query": null
+      },
+      "options": {
+        "Catalog": "",
+        "Database": ""
+      },
+      "mode": "DirectQuery"
+    }
+  ]
+}
